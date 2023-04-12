@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img alt="banner" src="https://github.com/JERISHAB/JERISHAB/commit/bea3103dd420676542afe05226f6aaae823dc065"></p>
+<img alt="banner" src="banner.png"></p>
