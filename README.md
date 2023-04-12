@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="gitimg">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
+
+<p align="center">
+<img alt="banner" src="https://github.com/JERISHAB/JERISHAB/commit/bea3103dd420676542afe05226f6aaae823dc065"></p>
