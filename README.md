@@ -2,7 +2,7 @@
 <img alt="banner" src="banner.png"></p>
 
 
-<h3 align="center"> A computer science and engineering student who is enthusiastic about web designing and programming. I love taking on challenging projects and working on new technologies that expand my skillset. My ultimate aspiration is to become a proficient software developer who can create reliable, efficient, and secure software applications</h3>
+<h4 align="center"> A computer science and engineering student who is enthusiastic about web designing and programming. I love taking on challenging projects and working on new technologies that expand my skillset. My ultimate aspiration is to become a proficient software developer who can create reliable, efficient, and secure software applications</h4>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JERISHAB&theme=dark)](https://git.io/streak-stats)
 
