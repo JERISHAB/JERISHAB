@@ -2,11 +2,11 @@
 <img alt="banner" src="banner.png"></p>
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I  a computer science and engineering student who is enthusiastic about web designing and programming. I love taking on challenging projects and working on new technologies that expand my skillset. My ultimate aspiration is to become a proficient software developer who can create reliable, efficient, and secure software applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerishab&label=Profile%20views&color=0e75b6&style=flat" alt="jerishab" /> </p>
 
-- 📫 How to reach me **jerishabmayan@gmail.com**
+- 📫 Reach me through : **jerishabmayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
