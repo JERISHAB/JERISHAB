@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🎓 B.Tech Computer Science and Engineer from  at College of Engineering Chengannur<br>💻 Strong in C and Python with a focus on software development and problem-solving<br>🚀 Passionate about learning new technologies and building practical solutions<br>⚡ Eager to take on challenges and continually improve as a developer
+🎓 Computer Science and Engineer <br>💻 Strong in C and Python with a focus on software development and problem-solving<br>🚀 Passionate about learning new technologies and building practical solutions<br>⚡ Eager to take on challenges and continually improve as a developer
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JERISHAB&theme=dark)](https://git.io/streak-stats)
